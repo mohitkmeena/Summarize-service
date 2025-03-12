@@ -6,7 +6,7 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
-summary_service.egg-info
+summary_service.egg-info/
 
 .vscode/
 
