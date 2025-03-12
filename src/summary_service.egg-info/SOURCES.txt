@@ -1,0 +1,9 @@
+setup.py
+src/app/__init__.py
+src/app/service/__init__.py
+src/app/service/llmservice.py
+src/summary_service.egg-info/PKG-INFO
+src/summary_service.egg-info/SOURCES.txt
+src/summary_service.egg-info/dependency_links.txt
+src/summary_service.egg-info/requires.txt
+src/summary_service.egg-info/top_level.txt
